@@ -1,0 +1,16 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.cards div {
+    flex-basis: 20%;
+    margin: 20px 5px;
+    transition: 300ms;
+}
+
+.cards > div:hover {
+    transition: 300ms;
+    transform: translateY(-15px);
+}
