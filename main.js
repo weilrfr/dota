@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let section = document.querySelector('.cards');
     
     // массив items с информацией о героях
+    // что бы добавить героя создаете новый объект с данными полями
+    // указываете ссылку на видео(можно взять любую из прошлых и в конце поменять имя героя)
     let items = [
         {
             name: 'Brewmaster',
@@ -72,6 +74,16 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Grimstroke',
             video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm',
             discription: 'Котпас'
+        },
+        {
+            name: 'Doom',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/doom_bringer.webm',
+            discription: 'Не думает'
+        },
+        {
+            name: 'Bloodseeker',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.webm',
+            discription: 'Устроит тебе месячные'
         }
     ]
     
