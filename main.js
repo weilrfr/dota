@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: 'Anti-mage',
             video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.webm',
-            discription: 'Он крип, собирает бф к 30 минуте если в твоей команде, а если во вражеской то к 7'
+            discription: 'Он крип, собирающий бф к 30 минуте'
         },
         {
             name: 'Magnus',
