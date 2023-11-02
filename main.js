@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: 'Grimstroke',
             video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm',
-            discription: 'Максим'
+            discription: 'Котпас'
         }
     ]
     

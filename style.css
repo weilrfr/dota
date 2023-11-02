@@ -8,7 +8,7 @@
     flex-basis: 20%;
     margin: 20px 5px;
     transition: 300ms;
-    min-width: 205px;
+    min-width: 195px;
 }
 
 .cards > div:hover {
