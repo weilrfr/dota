@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: 'Anti-mage',
-            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antvideo.webm',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.webm',
             discription: 'Он крип, собирает бф к 30 минуте если в твоей команде, а если во вражеской то к 7'
         },
         {
@@ -62,6 +62,16 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Tidehunter',
             video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tidehunter.webm',
             discription: 'Арбуз'
+        },
+        {
+            name: 'Invoker',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/invoker.webm',
+            discription: 'Беловласый Гейлорд'
+        },
+        {
+            name: 'Grimstroke',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm',
+            discription: 'Максим'
         }
     ]
     
