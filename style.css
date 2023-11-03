@@ -13,5 +13,5 @@
 
 .cards > div:hover {
     transition: 300ms;
-    transform: translateY(-15px);
+    transform: scale(1.1);
 }

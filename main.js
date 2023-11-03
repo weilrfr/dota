@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: 'Grimstroke',
             video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm',
-            discription: 'Котпас'
+            discription: 'Максимчик'
         },
         {
             name: 'Doom',
@@ -84,6 +84,26 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Bloodseeker',
             video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.webm',
             discription: 'Устроит тебе месячные'
+        },
+        {
+            name: 'Spectre',
+            video: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.webm",
+            discription: 'Попа'
+        },
+        {
+            name: 'Bounty Hunter',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bounty_hunter.webm',
+            discription: 'Вор в инвизе'
+        },
+        {
+            name: 'Meepo',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/meepo.webm',
+            discription: 'Самая милая улыбка в мире'
+        },
+        {
+            name: 'Spirit Breaker',
+            video: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spirit_breaker.webm',
+            discription: 'Синий ламборгини'
         }
     ]
     
