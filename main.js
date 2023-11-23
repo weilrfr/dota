@@ -6,7 +6,7 @@ fetch('items.json').then(
     for (let i of items) {
         section.innerHTML += `
             <div class="card" data-bs-theme="dark">
-                <video muted loop>
+                <video muted loop">
                     <source src="${i.video}">
                 </video>
                 <div class="card-body">
