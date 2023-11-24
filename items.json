@@ -154,5 +154,23 @@
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ursa.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ursa.png",
         "discription": "Мишка косолапый"
+    },
+    {
+        "name": "Luna",
+        "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/luna.webm",
+        "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/luna.png",
+        "discription": "Фармилка"
+    },
+    {
+        "name": "Enigma",
+        "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.webm",
+        "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.png",
+        "discription": "Катя возьми телефон, это он"
+    },
+    {
+        "name": "Nature's Prophet",
+        "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/furion.webm",
+        "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.png",
+        "discription": "Фурион фурион по фарму чемпион"
     }
 ]
