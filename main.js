@@ -89,8 +89,8 @@ btn.addEventListener('click', function() {
 });
 
 
-fetch('http://192.168.20.101:8000/api/cards/').then(
-// fetch('items.json').then(
+// fetch('http://192.168.20.101:8000/api/cards/').then(
+fetch('items.json').then(
     response => response.json(),
 ).then(items => {
     const section = document.querySelectorAll('section')[1];

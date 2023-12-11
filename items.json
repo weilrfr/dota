@@ -9,13 +9,13 @@
         "name": "Tinker",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.png",
-        "description": "Сигнатурка Коли"
+        "description": "клинкер"
     },
     {
         "name": "Anti-mage",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.png",
-        "description": "Он крип, собирающий бф к 30 минуте"
+        "description": "крип"
     },
     {
         "name": "Magnus",
@@ -39,7 +39,7 @@
         "name": "Chaos Khight",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chaos_knight.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chaos_knight.png",
-        "description": "Сигнатурка Алимжана"
+        "description": "конь"
     }, 
     {
         "name": "Witct Doctor",
@@ -63,7 +63,7 @@
         "name": "Bristleback",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.png",
-        "description": "Колючий говноед"
+        "description": "Колючий еж"
     },
     {
         "name": "Tidehunter",
@@ -81,7 +81,7 @@
         "name": "Grimstroke",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.png",
-        "description": "Максимчик"
+        "description": "гримстроке"
     },
     {
         "name": "Doom",
@@ -93,13 +93,13 @@
         "name": "Bloodseeker",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.png",
-        "description": "Устроит тебе месячные"
+        "description": "а"
     },
     {
         "name": "Spectre",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.png",
-        "description": "Попа"
+        "description": "спектр"
     },
     {
         "name": "Bounty Hunter",
@@ -141,13 +141,13 @@
         "name": "Windranger",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/windrunner.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/windrunner.png",
-        "description": "Рыжая шаболда"
+        "description": "Рыжая"
     },
     {
         "name": "Phantom Assasin",
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_assassin.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_assassin.png",
-        "description": "Больная дурочка"
+        "description": "Больная"
     },
     {
         "name": "Ursa",
@@ -178,5 +178,15 @@
         "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_demon.webm",
         "poster": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_demon.png",
         "description": "Леха лох"
+    },
+    {
+        "name": "Rubick",
+        "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rubick.webm",
+        "description": "Магический вор"
+    },
+    {
+        "name": "Muerta",
+        "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/muerta.webm",
+        "description": "фывафыва"
     }
 ]

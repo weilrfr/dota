@@ -32,3 +32,11 @@ form {
     justify-content: space-around;
     flex-basis: 100%;
 }
+
+body {
+    background:radial-gradient(rgba(165, 0, 165, 0.699),rgba(12, 0, 179, 0.699))
+}
+
+input {
+    margin: 15px 0px;
+}
